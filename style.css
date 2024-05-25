@@ -8,3 +8,8 @@ body {
     background: url('./img/background.jpg') no-repeat center center fixed;
     background-size: cover; 
 }
+
+canvas {
+    display: block;
+    background-color: transparent;
+}
