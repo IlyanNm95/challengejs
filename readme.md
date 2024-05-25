@@ -11,7 +11,7 @@
 
 ## Introduction
 
-* Dive into Ball Shooter, an elite shooting game where you must take down your enemies by shooting balls ! Achieve your highest score !
+* Dive into Ball Shooter, an elite shooting game where you must take down your enemies by shooting balls ! Achieve your highest score ! WARNING : your bullets can turn against you and inflict damage on you.
 
 ## Contact
 
